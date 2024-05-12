@@ -79,8 +79,9 @@ xnor(xnorgate,a,b);
 endmodule
 Program for logic gates and verify its truth table in quartus using Verilog programming
 
- Developed by: RegisterNumber: 
+ **RTL realization**
  
+![312525416-523d3d1f-416e-46fc-b087-8e2e92053a69](https://github.com/HemapriyaOfficial/study-of-basic-gates/assets/147114275/ff5ac53c-f51e-4913-81bd-6588bc30e1cc)
 
 **Output:** 
 
